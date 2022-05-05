@@ -1,0 +1,22 @@
+img{
+    height: 100px;
+    width:100px;
+}
+.App
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+    border-style: groove;
+    border-color: brown;
+    color:blue;
+}
+p{
+    color:red;
+    text-transform: capitalize;
+    font-size: large;
+}
+.head
+{
+    margin-left: 350px;
+}
